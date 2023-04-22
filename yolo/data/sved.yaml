@@ -1,0 +1,11 @@
+path: ../../datasets
+train: images/train
+val: images/val
+test: images/test
+
+names:
+ 0: Background
+ 1: Initial
+ 2: Decoration
+ 3: ContentIllustration
+ 4: PrintersMark
